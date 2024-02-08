@@ -1,3 +1,5 @@
+## Contract Adr: 0xa321065699eAcA0cF4aFf18c17Dc2fECdcEA685c
+
 ## Gas Efficiency Optimization Strategies for `ProposalContract`
 
 Optimizing a Solidity smart contract for gas efficiency involves minimizing state changes, reducing the amount of stored data, and simplifying logic where possible. In our  `app_original.sol`, we can apply several strategies to make it more compact and potentially reduce gas costs:
